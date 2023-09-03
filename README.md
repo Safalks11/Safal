@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Safal1012
+- 👋 Hi, I’m @Safalks
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web designing.
 - 💞️ I’m looking to collaborate on ...
