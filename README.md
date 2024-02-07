@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Safalks
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web designing.
+- 🌱 I’m currently working as Flutter Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -instagram id: mr_drogo_
                        email: Safalsaleem11@gmail.com
