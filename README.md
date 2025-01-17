@@ -7,11 +7,11 @@ Welcome to my GitHub! I am a passionate **Flutter Developer** and a **BCA Gradua
 ## 🚀 About Me
 
 - 🌱 **Currently learning**:  
-  - **BLoC state management** to enhance my app architecture skills.  
+  - **Riverpod state management** to enhance my app architecture skills.  
   - Exploring **animations in Flutter** to deliver seamless and visually engaging UI experiences.  
 
 - 👩‍💻 **Proficient in**:  
-  - **Flutter**, **REST APIs**, **SQLite**, **Firebase**, **Hive**, and **Provider**.  
+  - **Flutter**, **REST APIs**, **SQLite**, **Firebase**, **Hive**, **BLoC**, and **Provider**.  
 
 - 📚 **Certifications**:  
   - **Google Play Academy**: Store Listing Certificate  
@@ -27,7 +27,7 @@ Welcome to my GitHub! I am a passionate **Flutter Developer** and a **BCA Gradua
     Working on live projects such as order-taking and invoice-generation mobile apps, implementing offline features, data synchronization through APIs, and more.  
 
 - 💡 **Future Goal**:  
-  - To start my own software startup in Kerala and contribute to the tech ecosystem in India!  
+  - To become a proficient Full-Stack Developer, mastering backend technologies to complement my Flutter expertise.  
 
 ---
 
