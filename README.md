@@ -31,7 +31,7 @@ Welcome to my GitHub! I am a passionate **Flutter Developer** and a **BCA Gradua
 - Implementing offline functionality with **SQLite** and data synchronization through **APIs**.  
 - Ensuring seamless user experiences with robust validation and efficient local storage.  
 
-### Software Engineer Trainee at Ndimensionz Solutions Pvt Ltd:  
+### Software Engineer Trainee at Ndimensionz Solutions Pvt Ltd (2023 June – September):  
 - Managed the **Retail Management ERP Project** for Kerala State Civil Supplies Corporation (Supply-Co).  
 - Handled inventory operations, purchase orders, GRS, quality checks, payments, and stock transfers.  
 - Installed and configured Wings servers and ERP software.  
