@@ -26,7 +26,7 @@ Welcome to my GitHub! I am a passionate **Flutter Developer** and a **BCA Gradua
 
 ## 🏢 Work Experience  
 
-### Mobile App Developer at Host Sale Tech India Pvt Ltd (December 2023 – Present):  
+### Mobile App Developer at Host Sale Tech India Pvt Ltd (2023 December – Present):  
 - Developing live projects, including order-taking and invoice-generation mobile apps.  
 - Implementing offline functionality with **SQLite** and data synchronization through **APIs**.  
 - Ensuring seamless user experiences with robust validation and efficient local storage.  
